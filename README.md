@@ -17,8 +17,7 @@
 ```yaml
 name:      Aluvala Sai Shailu Sri
 studying:  Computer Science Engineering
-vibe:      rough ideas first → build them later
-currently: Tollymemes, making the Telugu internet more fun
+vibe:      Rough ideas first → Build them later
 ```
 
 <br/>
