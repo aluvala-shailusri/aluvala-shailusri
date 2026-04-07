@@ -123,8 +123,3 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri)
 
 
-<div align="center">
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=120&section=footer" width="100%"/>
-
-</div>
