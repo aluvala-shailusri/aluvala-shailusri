@@ -11,17 +11,21 @@
 
 ## About Me
 
+<div align="center" style="background: linear-gradient(135deg, #FFFBCC, #DFFFD6); padding: 20px; border-radius: 12px; display: inline-block; max-width: 700px;">
 
-```yaml
-Name     :  Aluvala Sai Shailu Sri
-Studying :  Computer Science Engineering
-Vibe     :  Rough ideas first → Build them later
-```
+<pre style="font-family: 'Courier New', monospace; font-size: 16px; color:#33691E;">
+Name     : Aluvala Sai Shailu Sri
+Studying : Computer Science Engineering
+Vibe     : Rough ideas first → Build them later
+</pre>
 
-<br/>
+<p style="font-style: italic; color:#8B4513; font-size: 16px;">
+"I enjoy turning rough ideas into interactive experiences, especially things that feel playful, experimental, and a little different."
+</p>
 
-> *"I enjoy turning rough ideas into interactive experiences, especially things that feel playful, experimental, and a little different."* 
+</div>
 
+<hr style="border: 1px solid #FFB300; margin: 40px 0;">
 ---
 
 <br/>
