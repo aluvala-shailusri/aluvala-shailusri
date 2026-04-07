@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
+<img src="https://readme-typing-svg.herokuapp.com?font=Michroma&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
 </p>
 
 <p align="center">
