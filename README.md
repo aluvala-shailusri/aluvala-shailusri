@@ -44,9 +44,10 @@ Vibe     :  Rough ideas first → Build them later
 <br/>
 
 ## Currently Exploring
-- WebGL & advanced Three.js
-- Creative coding
-- Performance optimization
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Archivo&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=WebGL+%26+Three.js+Deep+Dives;Creative+Coding+Experiments;Performance+%2B+Smooth+UX" />
+</p>
 
 ---
 
