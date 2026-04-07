@@ -10,8 +10,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
 </p>
 
-<br/>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
 </p>
@@ -26,8 +24,6 @@ studying:  Computer Science Engineering
 vibe:      rough ideas first → build them later
 currently: Tollymemes, making the Telugu internet more fun
 ```
-
-<br/>
 
 <br/>
 
@@ -93,9 +89,9 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ---
 
+<br/>
 
 ## GitHub Stats
-
 
 <div align="center">
 
@@ -104,6 +100,8 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 </div>
 
 ---
+
+<br/>
 
 ## CONTRIBUTION
 
@@ -115,17 +113,15 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 ---
 
 
+<br/>
+
 ## Find Me In The Wild
-
-
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)<br/>
 [![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri)
 
-
-<br/>
 
 <div align="center">
 <!-- Footer wave -->
