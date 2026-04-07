@@ -5,7 +5,7 @@
   </p>
 
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=I'm Shailu">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=Shailu here">
   </p>
 
   <br/>
