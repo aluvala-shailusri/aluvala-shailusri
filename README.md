@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://your-link.com/nature-header.png" width="900" alt="HELLO, SHAILU HERE 🌿">
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Michroma&size=40&duration=1000&pause=999999&color=228B22&center=true&vCenter=true&width=900&lines=HELLO,+SHAILU+HERE">
 </p>
 
