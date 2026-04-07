@@ -8,6 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge">
 </p>
 
+<br/>
 
 ## About Me
 
