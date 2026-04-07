@@ -1,12 +1,12 @@
 <div align="center">
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=42&duration=1&pause=0&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome" alt="Welcome" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+TO+THE+SYSTEM">
+  </p>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=42&duration=1&pause=0&color=F5A623&center=true&vCenter=true&width=600&lines=I'm+Shailu" alt="I'm Shailu" />
-  </a>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=System+Profile:+Amogh+Poonakar">
+  </p>
 
   <br/>
 
