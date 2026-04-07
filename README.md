@@ -1,7 +1,7 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=Shailu here">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=Shailu+here">
 
   <br/>
 
