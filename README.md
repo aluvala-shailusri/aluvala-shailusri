@@ -99,6 +99,12 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 </div>
 
+<div align="center>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluvala-shailusri&layout=compact&theme=dark&bg_color=transparent&title_color=FFD700&text_color=FFFFFF" height="160"/>
+
+</div>
+
 ---
 
 <br/>
