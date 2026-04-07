@@ -97,10 +97,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 <img src="https://streak-stats.demolab.com?user=aluvala-shailusri&theme=dark&hide_border=true&border_radius=12&background=transparent&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC" height="160"/>
 
-</div>
-
-<div align="center>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aluvala-shailusri&layout=compact&theme=dark&bg_color=transparent&title_color=FFD700&text_color=FFFFFF" height="160"/>
 
 </div>
