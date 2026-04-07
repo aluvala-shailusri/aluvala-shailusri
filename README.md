@@ -85,6 +85,11 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 <br/>
 
+## Currently Exploring
+- WebGL & advanced Three.js
+- Creative coding
+- Performance optimization
+
 ## GitHub Stats
 
 <div align="center">
@@ -109,7 +114,7 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 <br/>
 
 ## Find Me In The Wild
-<p>Let’s connect, collaborate, or just talk about cool ideas 👇</p>
+Let’s connect, collaborate, or just talk about cool ideas
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)<br/>
