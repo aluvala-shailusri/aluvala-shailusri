@@ -1,9 +1,10 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=35&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+EVERYONE">
+<img src="https://readme-typing-svg.herokuapp.com?font=Dosis&size=35&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+EVERYONE">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+Here">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Dosis&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
 </p>
 
 <p align="center">
