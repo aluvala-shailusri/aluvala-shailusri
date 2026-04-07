@@ -1,8 +1,9 @@
 <p align="center">
-  <div style="background: linear-gradient(90deg, #A8E6CF, #DCE775); padding: 30px; border-radius: 12px; display: inline-block;">
-    <h1 style="color: #33691E; margin: 0;">HELLO, SHAILU HERE 🌿</h1>
-    <p style="color: #33691E; margin: 5px 0;">Rough ideas first, beautiful builds later.</p>
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Michroma&size=40&duration=1000&pause=999999&color=228B22&center=true&vCenter=true&width=900&lines=🌿+HELLO,+SHAILU+HERE+🌱">
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Expanded&size=22&duration=1200&pause=1000&color=6B8E23&center=true&vCenter=true&width=600&lines=Rough+ideas+first,+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" />
 </p>
 
 <p align="center">
