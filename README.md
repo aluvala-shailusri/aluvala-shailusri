@@ -15,9 +15,9 @@
 
 
 ```yaml
-name:      Aluvala Sai Shailu Sri
-studying:  Computer Science Engineering
-vibe:      Rough ideas first → Build them later
+Name     :  Aluvala Sai Shailu Sri
+Studying :  Computer Science Engineering
+Vibe     :  Rough ideas first → Build them later
 ```
 
 <br/>
