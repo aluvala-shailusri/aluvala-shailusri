@@ -110,6 +110,7 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ## Find Me In The Wild
 <p>Let’s connect, collaborate, or just talk about cool ideas 👇</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)<br/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)<br/>
 [![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)<br/>
