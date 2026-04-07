@@ -1,14 +1,15 @@
-<div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Inter&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME">
+</p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
+</p>
 
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
-  </a>
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
+</p>
 
 <br/>
 
