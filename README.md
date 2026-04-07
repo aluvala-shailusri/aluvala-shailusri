@@ -16,11 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
 </p>
 
-<div align="center">
 
 ## About Me
 
-</div>
 
 ```yaml
 name:      Aluvala Sai Shailu Sri
@@ -37,31 +35,27 @@ currently: Tollymemes, making the Telugu internet more fun
 
 ---
 
-<div align="center">
 
 ##  Tech Stack
 
-</div>
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)<br/>
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br/>
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)<br/>
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)<br/>
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)<br/>
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
 
-<div align="center">
 
-## 🌼 Projects in Bloom
+## Projects in Bloom
 
-</div>
 
 <div align="center">
 
@@ -88,6 +82,7 @@ An interactive web soundboard featuring iconic Telugu meme sounds. Instant playb
 A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move your index finger to rotate, pinch to zoom — no keyboard, no mouse, just vibes.
 
 [![Repo](https://img.shields.io/badge/View%20Repo-%23F5A623.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri/holoflux)
+[![Live](https://img.shields.io/badge/Live%20Demo-%2300C851.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aluvala-shailusri.github.io/holoflux/)
 
 `Three.js` `MediaPipe` `JavaScript` `WebGL`
 
@@ -99,11 +94,9 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ---
 
-<div align="center">
 
 ## GitHub Stats
 
-</div>
 
 <div align="center">
 
@@ -121,8 +114,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ---
 
-<div align="center">
-
 ## CONTRIBUTION
 
 <p align="center">
@@ -132,9 +123,10 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ---
 
-<div align="center">
 
 ## Find Me In The Wild
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)
