@@ -22,7 +22,7 @@ Vibe     :  Rough ideas first → Build them later
 
 <br/>
 
-> *"I like things that are simple but elegant — build rough, refine beautifully."* 
+> *"I enjoy turning rough ideas into interactive experiences, especially things that feel playful, experimental, and a little different."* 
 
 ---
 
