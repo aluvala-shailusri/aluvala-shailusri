@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+EVERYONE">
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=35&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME+EVERYONE">
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=30&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+Here">
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+Here">
 </p>
 
 <p align="center">
@@ -117,16 +117,17 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 ## Find Me In The Wild
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)
-[![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shailusri-aluvala/)<br/>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)<br/>
+[![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri)
 
 
 <br/>
 
+<div align="center">
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=120&section=footer" width="100%"/>
 
