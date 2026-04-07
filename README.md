@@ -46,9 +46,9 @@ Vibe     :  Rough ideas first → Build them later
 ## Currently Exploring
 
 <p align="center">
-  <img src="https://img.shields.io/badge/WebGL-%23000000?style=for-the-badge&logo=webgl&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Creative Coding-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebGL-%23000000?style=for-the-badge&logo=webgl&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white"/> <br/>
+  <img src="https://img.shields.io/badge/Creative Coding-ff69b4?style=for-the-badge"/> <br/>
   <img src="https://img.shields.io/badge/Performance Optimization-00C851?style=for-the-badge"/>
 </p>
 
