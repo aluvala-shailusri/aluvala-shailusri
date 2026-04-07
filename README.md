@@ -95,7 +95,7 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=aluvala-shailusri&theme=sunshine&hide_border=true&border_radius=12&background=transparent&ring=F5A623&fire=F5A623&currStreakLabel=F5A623" height="160"/>
+<img src="https://streak-stats.demolab.com?user=aluvala-shailusri&theme=dark&hide_border=true&border_radius=12&background=transparent&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC" height="160"/>
 
 </div>
 
