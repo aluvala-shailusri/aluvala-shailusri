@@ -1,22 +1,25 @@
 <div align="center">
 
-  <!-- Clean Static Header -->
-  <h1 style="font-family: 'Ubuntu', sans-serif; font-size: 42px; margin-bottom: 0;">Welcome</h1>
-  <h2 style="font-family: 'Ubuntu', sans-serif; font-size: 42px; margin-top: 5px;">I'm Shailu</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=42&duration=1&pause=0&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome" alt="Welcome" />
+  </a>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=42&duration=1&pause=0&color=F5A623&center=true&vCenter=true&width=600&lines=I'm+Shailu" alt="I'm Shailu" />
+  </a>
 
   <br/>
 
-  <!-- Sunflower row -->
-  <p>🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻</p>
+  <p>🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; Daisy &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻</p>
 
   <br/>
 
-  <!-- Clean Typing SVG (Ubuntu Font) -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
   </a>
 
 </div>
+
 <br/>
 
 <p align="center">
