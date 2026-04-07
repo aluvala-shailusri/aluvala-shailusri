@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ## About Me
@@ -33,8 +31,9 @@ currently: Tollymemes, making the Telugu internet more fun
 ```
 
 <br/>
-
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=aluvala-shailusri.aluvala-shailusri&color=F5A623)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
+</p>
 
 <br/>
 
