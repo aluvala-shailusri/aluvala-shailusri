@@ -34,6 +34,10 @@ currently: Tollymemes, making the Telugu internet more fun
 
 <br/>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=aluvala-shailusri.aluvala-shailusri&color=F5A623)
+
+<br/>
+
 > *"I like things that are simple but elegant — build rough, refine beautifully."* 
 
 ---
@@ -124,17 +128,12 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 <div align="center">
 
-## Contribution Garden
+## CONTRIBUTION
 
-*Watch the snake nom through my commit history*
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aluvala-shailusri/aluvala-shailusri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aluvala-shailusri/aluvala-shailusri/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/aluvala-shailusri/aluvala-shailusri/output/github-snake.svg" />
-</picture>
-
-</div>
 
 ---
 
@@ -147,9 +146,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 [![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri)
 
-<br/>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aluvala-shailusri.aluvala-shailusri&color=F5A623)
 
 <br/>
 
