@@ -17,6 +17,10 @@
 
 </div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
+</p>
+
 <div align="center">
 
 ## About Me
@@ -31,9 +35,6 @@ currently: Tollymemes, making the Telugu internet more fun
 ```
 
 <br/>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
-</p>
 
 <br/>
 
