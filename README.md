@@ -1,7 +1,6 @@
 <div align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=42&duration=1&pause=999999&color=00FFFF&center=true&vCenter=true&width=900&lines=WELCOME">
-  <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=40&duration=1000&pause=999999&color=FFAF5E&center=true&vCenter=true&width=900&lines=SHAILU+HERE">
 
 
@@ -144,9 +143,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 
 <br/>
-
-<!-- Sunflower row -->
-<p>🌸 &nbsp; 🌼 &nbsp; 🌻 &nbsp; 🌸 &nbsp; 🌼 &nbsp; 🌻 &nbsp; 🌸 &nbsp; 🌼 &nbsp; 🌻 &nbsp; 🌸</p>
 
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=120&section=footer" width="100%"/>
