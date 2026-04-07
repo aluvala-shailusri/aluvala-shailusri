@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=1200&pause=1000&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
 </p>
 
 <p align="center">
