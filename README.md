@@ -44,7 +44,6 @@ currently: Tollymemes, making the Telugu internet more fun
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br/>
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 <br/>
@@ -97,8 +96,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 
 <img src="https://streak-stats.demolab.com?user=aluvala-shailusri&theme=dark&hide_border=true&border_radius=12&background=transparent&ring=FFD700&fire=FF8C00&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=CCCCCC" height="160"/>
 
-<img src="https://raw.githubusercontent.com/aluvala-shailusri/aluvala-shailusri/main/profile-summary-card-output/github_dark/most-used-languages.svg" />
-
 </div>
 
 ---
@@ -111,7 +108,6 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </p>
 
-
 ---
 
 
@@ -123,5 +119,3 @@ A 3D particle visualizer powered by hand tracking via MediaPipe & Three.js. Move
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shailusri_aluvala/)<br/>
 [![X / Twitter](https://img.shields.io/badge/X%20(Twitter)-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SriAluvala16908)<br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aluvala-shailusri)
-
-
