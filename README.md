@@ -1,21 +1,23 @@
 <div align="center">
 
-<!-- Sunflower header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,7,12,20&height=200&section=header&text=Hey%2C%20I'm%20Shailu%20%F0%9F%8C%BB&fontSize=42&fontColor=fff&fontAlignY=38&desc=CSE%20Student%20%C2%B7%20Builder%20%C2%B7%20Telugu%20Internet%20Appreciator&descAlignY=58&descSize=16" width="100%"/>
+  <!-- Clean Static Header -->
+  <h1 style="font-family: 'Ubuntu', sans-serif; font-size: 42px; margin-bottom: 0;">Welcome</h1>
+  <h2 style="font-family: 'Ubuntu', sans-serif; font-size: 42px; margin-top: 5px;">I'm Shailu</h2>
 
-<br/>
+  <br/>
 
-<!-- Sunflower row -->
-<p>🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻</p>
+  <!-- Sunflower row -->
+  <p>🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻 &nbsp; 🌼 &nbsp; 🌸 &nbsp; 🌻</p>
 
-<br/>
+  <br/>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first+%F0%9F%8C%B1%2C+beautiful+builds+later.;Simple+but+elegant+%E2%9C%A8;Making+the+web+a+little+more+fun+%F0%9F%8C%BB;CSE+Student+%7C+Creator+%7C+Dreamer+%F0%9F%8C%BC" alt="Typing SVG" />
-</a>
+  <!-- Clean Typing SVG (Ubuntu Font) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Ubuntu&size=22&duration=3500&pause=800&color=F5A623&center=true&vCenter=true&width=600&lines=Rough+ideas+first%2C+beautiful+builds+later.;Simple+but+elegant;Making+the+web+a+little+more+fun;CSE+Student+%7C+Creator+%7C+Dreamer" alt="Typing SVG" />
+  </a>
 
 </div>
+<br/>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=aluvala-shailusri&label=PROFILE+VIEWS&color=ff584d&style=for-the-badge">
