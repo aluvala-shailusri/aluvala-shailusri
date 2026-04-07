@@ -44,9 +44,11 @@ Vibe     :  Rough ideas first → Build them later
 <br/>
 
 ## Currently Exploring
-- WebGL & advanced Three.js
-- Creative coding
-- Performance optimization
+WebGL & advanced Three.js
+Creative coding
+Performance optimization
+
+---
 
 <br/>
 
