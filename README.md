@@ -46,7 +46,10 @@ Vibe     :  Rough ideas first → Build them later
 ## Currently Exploring
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Archivo&size=20&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=WebGL+%26+Three.js+Deep+Dives;Creative+Coding+Experiments;Performance+%2B+Smooth+UX" />
+  <img src="https://img.shields.io/badge/WebGL-%23000000?style=for-the-badge&logo=webgl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Creative Coding-ff69b4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Performance Optimization-00C851?style=for-the-badge"/>
 </p>
 
 ---
